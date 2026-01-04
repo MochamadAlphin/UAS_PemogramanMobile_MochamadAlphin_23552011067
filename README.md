@@ -85,5 +85,5 @@ Tiket Digital
 
 - Nama        : *Mochamad Alphin*
 - NIM         : *23552011067*  
-- Mata Kuliah : Mobile Programming / Flutter  
-- Tahun       : 2026
+- Mata Kuliah : Pemrograman Mobile II
+- Dosen Pengampu : Muhammad Ikhwan Fathulloh, S.Kom.
