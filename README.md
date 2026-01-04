@@ -81,7 +81,7 @@ Tiket Digital
 
 ---
 
-## 👨‍💻 Pengembang
+##  Pengembang
 
 - Nama        : *Mochamad Alphin*
 - NIM         : *23552011067*  
