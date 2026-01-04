@@ -57,19 +57,20 @@ Tujuan dari pengembangan aplikasi **BERANGKATIN** adalah:
 ---
 
 ## Alur Aplikasi (Mobile Flow)
-Splash Screen
-↓
-Login / Register
-↓
-Home (Cari Jadwal)
-↓
-Daftar Jadwal Kereta
-↓
-Detail Jadwal & Pilih Kursi
-↓
-Pembayaran
-↓
+Splash Screen  
+↓  
+Login / Register  
+↓  
+Home (Cari Jadwal)  
+↓  
+Daftar Jadwal Kereta  
+↓  
+Detail Jadwal & Pilih Kursi  
+↓  
+Pembayaran  
+↓  
 Tiket Digital
+
 
 ## Firebase yang Digunakan
 
